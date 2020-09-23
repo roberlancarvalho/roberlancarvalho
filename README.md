@@ -1,7 +1,5 @@
 # Sobre mim - Roberlan Carvalho
 
-https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg
-
 ## 💬 Quem sou eu
 
 #### Olá! Sou Roberlan Oliveira de Carvalho, nasci em Mombaça-CE e moro atualmente em Quixadá-CE. Sou desenvolvedor e fundador da [Tec North](https://tecnorth.com.br/).
