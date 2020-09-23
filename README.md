@@ -1,6 +1,7 @@
 # Sobre mim - Roberlan Carvalho
 
-### 💬 Quem sou eu
+
+## 💬 Quem sou eu
 
 #### Olá! Sou Roberlan Oliveira de Carvalho, nasci em Mombaça-CE e moro atualmente em Quixadá-CE. Sou desenvolvedor e fundador da [Tec North](https://tecnorth.com.br/).
 
@@ -8,7 +9,7 @@ Curso Sistemas de Informação na Unicatólica de Quixadá. Como desenvolvedor w
 
 Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de ensinar meus amigos e clientes sobre alguma coisa que aprendi, mais relacionado à tecologia.
 
-### 🛠️ Habilidades
+## 🛠️ Habilidades
 * HTML e Template Languages;
 * CSS (Stylus, Sass, Less, PostCSS);
 * Javascript;
@@ -17,6 +18,13 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * NodeJS;
 * Python;
 * MySQL - MongoDB.
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
 
 Para saber mais sobre mim ou entrar em contato, acesse o meu blog: [Roberlan Carvaho](http://roberlancarvalho.com/)
 
