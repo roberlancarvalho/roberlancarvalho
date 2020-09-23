@@ -1,7 +1,9 @@
 # Sobre mim - Roberlan Carvalho
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge made-with-linkedin](http://ForTheBadge.com/images/badges/made-with-linkedin.svg)](https://www.linkedin.org/)
+
+[![forthebadge made-with-python](https://forthebadge.com/images/badges/pretty-risque.svg)](https://www.python.org/)
+
 
 ## 💬 Quem sou eu
 
