@@ -1,10 +1,5 @@
 # Sobre mim - Roberlan Carvalho
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![forthebadge made-with-python](https://forthebadge.com/images/badges/pretty-risque.svg)](https://www.python.org/)
-
-
 ## 💬 Quem sou eu
 
 #### Olá! Sou Roberlan Oliveira de Carvalho, nasci em Mombaça-CE e moro atualmente em Quixadá-CE. Sou desenvolvedor e fundador da [Tec North](https://tecnorth.com.br/).
