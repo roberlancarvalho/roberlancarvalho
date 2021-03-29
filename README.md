@@ -2,7 +2,7 @@
 
 ## 💬 Quem sou eu
 
-#### Olá! Sou Roberlan Oliveira de Carvalho, nasci em Mombaça-CE e moro atualmente em Quixadá-CE. Sou desenvolvedor e fundador da [Tec North](https://tecnorth.com.br/).
+#### Olá! Sou Roberlan Oliveira de Carvalho, nasci em Mombaça-CE e moro atualmente em Quixadá-CE. Sou desenvolvedor, músico e fundador da [Tec North](https://tecnorth.com.br/).
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roberlancarvalho)](https://github.com/roberlancarvalho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberlancarvalho/)](https://www.linkedin.com/in/roberlancarvalho/)
@@ -22,7 +22,7 @@ Eu gosto de trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gost
 * Gatsby;
 * NodeJS;
 
-Para saber mais sobre mim ou entrar em contato, acesse o meu blog: [Roberlan Carvaho](http://roberlancarvalho.com/).
+Para saber mais sobre mim ou entrar em contato, acesse o meu blog: [Roberlan Carvalho](http://roberlancarvalho.com/).
 
 <!--
 **roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
