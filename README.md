@@ -22,7 +22,7 @@ Eu gosto de trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gost
 * Gatsby;
 * NodeJS;
 
-Para saber mais sobre mim ou entrar em contato, acesse o meu blog: [Roberlan Carvalho](http://roberlancarvalho.com/).
+Para saber mais sobre mim ou entrar em contato, acesse o meu site: [Roberlan Carvalho](http://roberlancarvalho.com/).
 
 <!--
 **roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
