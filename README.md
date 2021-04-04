@@ -19,6 +19,9 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * ReactJS / Redux / Flux;
 * Gatsby;
 * NodeJS;
+
+#### I am creative. And I love using it to develop new ideas, applications and solutions.
+
 To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
 
 <!--
