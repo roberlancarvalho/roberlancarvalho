@@ -1,8 +1,8 @@
-# Sobre mim - Roberlan Carvalho
+# Roberlan Carvalho 👨‍💻
+ 
+## 💬 About me
 
-## 💬 Quem sou eu
-
-#### Olá! Sou Roberlan Oliveira de Carvalho, nasci em Mombaça-CE e moro atualmente em Quixadá-CE. Sou desenvolvedor, músico e fundador da [Tec North](https://tecnorth.com.br/).
+#### Helo! I'm Roberlan Oliveira de Carvalho, I was born in Mombasa-CE and currently live in Quixadá-CE. I am a developer, musician, chess player and founder of [Tec North](https://tecnorth.com.br/).
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roberlancarvalho)](https://github.com/roberlancarvalho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberlancarvalho/)](https://www.linkedin.com/in/roberlancarvalho/)
@@ -10,19 +10,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://www.instagram.com/roberlancarvalho/)](https://www.instagram.com/roberlancarvalho/)
 
 
-Curso Sistemas de Informação na Unicatólica de Quixadá. Como desenvolvedor web, sou apaxinado por tecnologia. Minhas habilidades são: HTML, CSS, JavaScript, React e Node. Trabalhar com TI, para mim não é um trabalho, é uma diversão.
+I study Information Systems at Unicatólica de Quixadá. As a web developer, I am passionate about technology. My skills are: HTML, CSS, JavaScript, React and Node. Working with IT, for me is wonderful.
 
-Eu gosto de trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de ensinar meus amigos e clientes sobre alguma coisa que aprendi, mais relacionado à tecologia.
-
-## 🛠️ Habilidades:
+## 🛠️ Skills:
 * HTML e Template Languages;
 * CSS (Stylus, Sass, Less, PostCSS);
 * Javascript;
 * ReactJS / Redux / Flux;
 * Gatsby;
 * NodeJS;
-
-Para saber mais sobre mim ou entrar em contato, acesse o meu site: [Roberlan Carvalho](http://roberlancarvalho.com/).
+To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
 
 <!--
 **roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
