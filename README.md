@@ -20,7 +20,7 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * Gatsby;
 * NodeJS;
 
-## More information
+## :heavy_plus_sign: More information
 
 ![Roberlan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
 
