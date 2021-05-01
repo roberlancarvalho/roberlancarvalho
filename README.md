@@ -25,7 +25,7 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 
 * HTML e Template Languages;
 * CSS (Stylus, Sass);
-* Javascript / Typescrip;
+* Javascript / Typescript;
 * ReactJS / Redux;
 * Angular;
 * NodeJS;
