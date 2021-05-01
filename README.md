@@ -20,7 +20,6 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * Gatsby;
 * NodeJS;
 
-react css3 html5 javascript nodejs
 
 ## :heavy_plus_sign: More information
 
