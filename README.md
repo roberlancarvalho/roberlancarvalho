@@ -20,12 +20,11 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * Gatsby;
 * NodeJS;
 
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/angular-original-wordmark.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/javascript-original-wordmark.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/node-original-wordmark.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/html-original-wordmark.svg)
-(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/css-original-wordmark.svg)
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-react-original"></i>
 
 
 ## :heavy_plus_sign: More information
