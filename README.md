@@ -22,6 +22,8 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 
 ![Roberlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
 
+![Roberlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roberlancarvalho)](https://github.com/roberlancarvalho/github-readme-stats)
+
 #### I am creative. And I love using it to develop new ideas, applications and solutions.
 
 To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
