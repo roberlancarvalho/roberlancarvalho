@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-
 # Roberlan Carvalho 👨‍💻
  
 ## 💬 About me
@@ -21,12 +19,6 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * ReactJS / Redux / Flux;
 * Gatsby;
 * NodeJS;
-
-<!-- in your header -->
-
-
-<!-- in your body -->
-<i class="devicon-react-original"></i>
 
 ## :heavy_plus_sign: More information
 
