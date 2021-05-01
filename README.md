@@ -20,12 +20,12 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * Gatsby;
 * NodeJS;
 
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg]
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/angular-original-wordmark.svg]
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/javascript-original-wordmark.svg]
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/node-original-wordmark.svg]
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/html-original-wordmark.svg]
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/css-original-wordmark.svg]
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/angular-original-wordmark.svg)
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/javascript-original-wordmark.svg)
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/node-original-wordmark.svg)
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/html-original-wordmark.svg)
+(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/css-original-wordmark.svg)
 
 
 ## :heavy_plus_sign: More information
