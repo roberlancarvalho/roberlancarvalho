@@ -20,7 +20,7 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * Gatsby;
 * NodeJS;
 
-![Roberlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=radical)
+![Roberlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
 
 #### I am creative. And I love using it to develop new ideas, applications and solutions.
 
