@@ -22,6 +22,8 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
 
 * HTML and Template Languages;
 * CSS (Stylus, Sass);
@@ -29,7 +31,7 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * ReactJS / Redux;
 * Angular;
 * NodeJS;
-* MySQL;
+* MySQL and PostgreSQL;
 * Gatsby.
 
 
