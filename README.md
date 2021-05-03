@@ -32,6 +32,7 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * ReactJS / Redux;
 * Angular;
 * NodeJS;
+* Java / Spring Boot;
 * MySQL and PostgreSQL;
 * Gatsby.
 
