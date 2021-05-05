@@ -41,7 +41,7 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 
 ![Roberlan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberlancarvalho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberlancarvalho)](https://github.com/roberlancarvalho/github-readme-stats)
 
 #### I am creative. And I love using it to develop new ideas, applications and solutions.
 
