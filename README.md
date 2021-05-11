@@ -1,5 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Roberlan Carvalho</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
+
+- 👨‍💻 Some of my projects are available at [https://roberlancarvalho.com/portfolio/](https://roberlancarvalho.com/portfolio/)
+
+- 📝 I regularly write articles on [https://roberlancarvalho.com/](https://roberlancarvalho.com/)
  
 ## 💬 About me
 
@@ -37,7 +41,6 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 * MySQL and PostgreSQL;
 * Gatsby.
 
-
 ## :heavy_plus_sign: More information
 
 ![Roberlan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
@@ -47,6 +50,13 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 #### I am creative. And I love using it to develop new ideas, applications and solutions.
 
 To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberlancarvalho&show_icons=true&locale=en&layout=compact" alt="roberlancarvalho" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&locale=en" alt="roberlancarvalho" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberlancarvalho&" alt="roberlancarvalho" /></p>
 
 <!--
 **roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
