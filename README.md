@@ -51,13 +51,6 @@ I study Information Systems at Unicatólica de Quixadá. As a web developer, I a
 
 To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberlancarvalho&show_icons=true&locale=en&layout=compact" alt="roberlancarvalho" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&locale=en" alt="roberlancarvalho" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberlancarvalho&" alt="roberlancarvalho" /></p>
-
 <!--
 **roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
