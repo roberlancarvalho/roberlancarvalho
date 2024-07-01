@@ -7,7 +7,7 @@
  
 ## 💬 About me
 
-#### Helo! I'm Roberlan Oliveira de Carvalho, I was born in Mombaça-CE and currently live in Quixadá-CE. I am a developer, musician, chess player and founder of [Tec North](https://tecnorth.com.br/).
+#### Helo! I'm Roberlan Oliveira de Carvalho, I was born in Mombaça-CE and currently live in Quixadá-CE. I am a developer, musician, chess player and founder of [Tech North](https://technorth.com.br/).
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roberlancarvalho)](https://github.com/roberlancarvalho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberlancarvalho/)](https://www.linkedin.com/in/roberlancarvalho/)
