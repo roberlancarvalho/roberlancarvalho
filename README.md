@@ -1,82 +1,137 @@
-<h1 align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/roberlancarvalho/roberlancarvalho/main/assets/cover-roberlan.png" alt="Roberlan Carvalho Banner">
-</h1>
+# <h1 align="center">Hi 👋, I'm Roberlan Carvalho</h1>
 
-<p align="center">
-<strong>Full Stack Developer | Founder @ <a href="https://technorth.com.br/">Tech North</a> | AI & Health Tech Enthusiast</strong>
-</p>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-<p align="center">
-<a href="https://roberlancarvalho.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Website">
-</a>
-<a href="https://www.linkedin.com/in/roberlancarvalho/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="https://github.com/roberlancarvalho" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-</a>
-<a href="https://twitter.com/roberlancarvalh" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
-</a>
-</p>
 
-👨‍💻 Sobre Mim
-Desenvolvedor Full Stack e fundador da Tech North, onde construo soluções que unem tecnologia e estratégia de negócio. Sou apaixonado por aplicar Inteligência Artificial em projetos de saúde e gestão, como as plataformas SynapsIA e FluxivaMed.
 
-Fora do código, você pode me encontrar jogando xadrez, compondo riffs na minha banda de Heavy Metal, Opus Seth, ou explorando os mundos de Assassin’s Creed e GTA V.
+- 👨‍💻 Some of my projects are available at [https://roberlancarvalho.com/portfolio/](https://roberlancarvalho.com/portfolio/)
 
-🚀 Meus Projetos em Destaque
-<details>
-<summary><strong>FluxivaMed - Gestão de Plantões Médicos</strong></summary>
+
+
+- 📝 I regularly write articles on [https://roberlancarvalho.com/](https://roberlancarvalho.com/)
+
+ 
+
+## 💬 About me
+
+
+
+#### Helo! I'm Roberlan Oliveira de Carvalho, I was born in Mombaça-CE and currently live in Quixadá-CE. I am a developer, musician, chess player and founder of [Tech North](https://technorth.com.br/).
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roberlancarvalho)](https://github.com/roberlancarvalho)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberlancarvalho/)](https://www.linkedin.com/in/roberlancarvalho/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/roberlancarvalh)](https://twitter.com/roberlancarvalh)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://www.instagram.com/roberlancarvalho/)](https://www.instagram.com/roberlancarvalho/)
 
 
 
 
 
-<p>API RESTful robusta construída com <strong>Java e Spring Boot</strong> para gerenciar todo o ciclo de vida de plantões médicos. Implementa autenticação JWT, controle de acesso por perfil (RBAC), e um fluxo completo de candidatura, aprovação e visualização de escalas. O projeto é totalmente containerizado com Docker.</p>
-<p>🔗 <strong><a href="https://www.google.com/search?q=https://github.com/roberlancarvalho/fluxivamed-api">Ver Repositório</a></strong></p>
-</details>
-
-<details>
-<summary><strong>SynapsIA - Telemedicina Inteligente</strong></summary>
+I study Information Systems at Unicatólica de Quixadá. As a web developer, I am passionate about technology. My skills are: HTML, CSS, JavaScript, React and Node. Working with IT, for me is wonderful.
 
 
 
-
-
-<p>Plataforma de telemedicina focada em pacientes crônicos, utilizando IA para triagem e acompanhamento. O objetivo é otimizar o tempo dos profissionais de saúde e oferecer um cuidado mais proativo. O frontend é desenvolvido em <strong>Angular</strong>, consumindo uma API <strong>Node.js</strong>.</p>
-</details>
-
-<details>
-<summary><strong>Outras Iniciativas</strong></summary>
+## 🛠️ Skills:
 
 
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
-<ul>
-<li><strong>AutonomIA:</strong> Soluções de IA para automação de processos de negócio.</li>
-<li><strong>APShared:</strong> App para compartilhamento de moradias e pontos de acesso.</li>
-<li><strong>Sangue por Livro:</strong> Plataforma de gamificação para incentivar a doação de sangue.</li>
-</ul>
-</details>
 
-🛠️ Tech Stack
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
-</p>
+* HTML and Template Languages;
 
-📊 Minhas Estatísticas no GitHub
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Droberlancarvalho%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Droberlancarvalho%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
-</p>
+* CSS (Stylus, Sass);
+
+* Javascript / Typescript;
+
+* ReactJS / Redux;
+
+* Angular;
+
+* NodeJS;
+
+* Java / Spring Boot;
+
+* MySQL and PostgreSQL;
+
+* Gatsby.
+
+
+
+## :heavy_plus_sign: More information
+
+
+
+![Roberlan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberlancarvalho)](https://github.com/roberlancarvalho/github-readme-stats)
+
+
+
+#### I am creative. And I love using it to develop new ideas, applications and solutions.
+
+
+
+To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
+
+
+
+<!--
+
+**roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+Here are some ideas to get you started:
+
+
+
+- 🔭 I’m currently working on ...
+
+- 🌱 I’m currently learning ...
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+
+-->
+
+
+
+
+
+Sabendo sobre mim, minhas habilidades, etc, eu gostaria de melhorar ele e o tornar mais moderno e profissional. Me ajude
