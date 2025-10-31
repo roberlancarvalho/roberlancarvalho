@@ -1,77 +1,107 @@
-<div align="center">
-<a href="https://github.com/roberlancarvalho">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Droberlancarvalho%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Droberlancarvalho%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
-</div>
+# <h1 align="center">Hi 👋, I'm Roberlan Carvalho</h1>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-<div align="center" style="display: inline_block">
+- 👨‍💻 Some of my projects are available at [https://roberlancarvalho.com/portfolio/](https://roberlancarvalho.com/portfolio/)
 
+- 📝 I regularly write articles on [https://roberlancarvalho.com/](https://roberlancarvalho.com/)
+ 
+## 💬 About me
 
+#### Hello! I'm Roberlan Oliveira de Carvalho, born in Mombaça-CE and currently living in Quixadá-CE, Brazil. I'm a Full Stack Developer, musician, chess enthusiast, and founder of [Tech North](https://technorth.com.br/) — a small tech initiative focused on developing intelligent solutions, mentoring junior developers, and helping local businesses go digital.
 
+I have over 5 years of experience in software development, working with Java, Spring Boot, Angular, React, and Node.js, building scalable systems and RESTful APIs. I’m passionate about clean code, software architecture, and continuous learning, always seeking to create meaningful, high-impact solutions.
 
-<h1 align="center">Olá, eu sou o Roberlan Carvalho 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack, Fundador da <a href="https://technorth.com.br/">Tech North</a> e entusiasta de IA.</h3>
-</div>
+Currently, I work at Claro Brasil, contributing to large-scale projects involving Java 8+, microservices, CI/CD pipelines, Docker, and Kubernetes. Previously, I collaborated with Unimed Fortaleza and Lead Dell, improving system performance, modernizing legacy applications, and implementing secure and maintainable architectures.
 
-🚀 Sobre Mim
-Sou um Desenvolvedor Full Stack apaixonado por transformar ideias em soluções de software robustas e inovadoras. Como fundador da Tech North, meu foco é aplicar tecnologia e Inteligência Artificial para resolver problemas reais nos setores de saúde, gestão e educação.
+Beyond technology, I’m deeply interested in AI, cloud computing, and data-driven solutions. I also believe creativity and logic go hand in hand — whether composing a song, solving a coding challenge, or leading a team toward innovation.
 
-🔭 Atualmente imerso em projetos com Java/Spring e Angular/React.
+🎯 My goal is to keep growing as a developer, building products that combine technology, usability, and purpose.
 
-🌱 Explorando o universo da Inteligência Artificial aplicada a sistemas de saúde.
-
-💬 Me chame para falar sobre tecnologia, inovação, música (Heavy Metal!) ou uma partida de xadrez.
-
-📫 Como me encontrar: roberlan.o.carvalho@gmail.com
-
-📝 Confira meu portfólio e artigos em roberlancarvalho.com
-
-🔗 Conecte-se Comigo
-<p align="left">
-<a href="https://www.linkedin.com/in/roberlancarvalho/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="roberlancarvalho"/></a>
-<a href="https://twitter.com/roberlancarvalh" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="roberlancarvalh"/></a>
-<a href="https://www.google.com/search?q=https://instagram.com/roberlancarvalho" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="roberlancarvalho"/></a>
-</p>
-
-🛠️ Tech Stack & Ferramentas
-<div style="display: inline_block">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roberlancarvalho)](https://github.com/roberlancarvalho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberlancarvalho/)](https://www.linkedin.com/in/roberlancarvalho/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=instagram&logoColor=white&link=https://www.instagram.com/roberlancarvalho/)](https://www.instagram.com/roberlancarvalho/)
 
 
+I study Information Systems at Unicatólica de Quixadá. As a web developer, I am passionate about technology. My skills are: HTML, CSS, JavaScript, React and Node. Working with IT, for me is wonderful.
+
+## 🛠️ Skills:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle/oracle.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/junit/junit.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png"></code>
 
 
-<h4>Frontend</h4>
-<img align="center" alt="Angular" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="React" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Ts" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Sass" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
-<div style="display: inline_block">
+### 💻 Frontend
 
+* Angular, ReactJS, React Native
 
+* HTML5, CSS3 (Sass, Stylus), TypeScript, Bootstrap
 
+* UX/UI com Figma e Adobe XD
 
-<h4>Backend & Banco de Dados</h4>
-<img align="center" alt="Java" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Spring" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img align="center" alt="Node" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="MySQL" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+### ⚙️ Backend
 
-🏆 Projetos em Destaque
-<p>
-<!-- Para usar este card, troque 'NOME_DO_REPO' pelo nome de um dos seus repositórios fixados (pinned) -->
-<a href="https://www.google.com/search?q=https://github.com/roberlancarvalho/NOME_DO_REPO_1">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Droberlancarvalho%26repo%3DNOME_DO_REPO_1%26theme%3Ddracula" alt="Projeto 1">
-</a>
-<a href="https://www.google.com/search?q=https://github.com/roberlancarvalho/NOME_DO_REPO_2">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Droberlancarvalho%26repo%3DNOME_DO_REPO_2%26theme%3Ddracula" alt="Projeto 2">
-</a>
-</p>
+* Java (Spring Boot, Spring MVC, Spring Security, JPA/Hibernate)
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github.com/roberlancarvalho/roberlancarvalho/raw/main/grid-snake.svg" alt="snake">
-</div>
+* Node.js, Express.js, Microsserviços e REST APIs
+
+* Design Patterns e TDD
+
+### 🗄️ Data Base
+
+Oracle PL/SQL, PostgreSQL, MySQL, Firebase
+
+### ☁️ DevOps & Cloud
+
+Docker, Kubernetes, Jenkins, GitLab CI/CD
+
+AWS (EC2, S3, RDS)
+
+### 🧠 Tests
+
+JUnit 5, Mockito, Testcontainers
+
+### 🧩 Methodologies
+
+Scrum, Kanban, GitFlow, Clean Code, CI/CD
+
+## 📄 More informations
+
+![Roberlan Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberlancarvalho&show_icons=true&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberlancarvalho)](https://github.com/roberlancarvalho/github-readme-stats)
+
+#### I am creative. And I love using it to develop new ideas, applications and solutions.
+
+To find out more about me, or get in touch, visit my website: [Roberlan Carvalho](http://roberlancarvalho.com/).
+
+<!--
+**roberlancarvalho/roberlancarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
